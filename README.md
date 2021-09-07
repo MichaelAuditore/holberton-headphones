@@ -32,4 +32,4 @@ The project still does have some accessibility issues regarding color contrast t
 
 ## Author
 
--   **Brian Florez** - [MichaelAuditore](https://github.com/MichaelAuditore)
+-   **Miguel A. Parada** - [MichaelAuditore](https://github.com/MichaelAuditore)
